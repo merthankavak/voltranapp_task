@@ -1,16 +1,7 @@
-# voltranapp_task
+# Voltran App Task
 
-A new Flutter project.
+This Flutter app allows users to record taps on a floating action button without immediately increasing the tap count. Instead, when the user long-presses the FAB, the app increments the count based on the exact timing of each tap and the delay between them. When the user long-presses the button, the count value will start to increase, and the color of the button changes from blue to red during the process.
 
-## Getting Started
+## Preview
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![preview](preview.gif)
